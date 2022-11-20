@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>My Portfolio</title>
+        <title>Up50 Wala Yarr</title>
         <style>
             body
             {
